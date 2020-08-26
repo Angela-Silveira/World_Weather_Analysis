@@ -1,4 +1,4 @@
-City,City,Country,Max Temp,Current Weather,Lat,Lng,Hotel Name
+City_ID,City,Country,Max Temp,Current Weather,Lat,Lng,Hotel Name
 0,Rikitea,PF,70.02,Clouds,-23.12,-134.97,Pension Maro'i
 1,Paragominas,BR,70.48,Clouds,-2.97,-47.48,HOTEL RODA VIVA
 2,Bambous Virieux,MU,73.99,Clouds,-20.34,57.76,Casa Tia Villa
